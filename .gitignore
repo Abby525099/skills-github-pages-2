@@ -7,7 +7,6 @@
 *.o
 *.so
 # Packages #
-# idk
 ############
 # it's better to unpack these files and commit the raw source
 # git has its own built in compression methods
@@ -35,4 +34,10 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+# Welcome to My Page!
 
+Hi there! This is my personal website hosted on GitHub Pages.
+
+## About Me
+- 🔭 Learning GitHub Actions and Pages
+- 🌱 Building my first website
